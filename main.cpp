@@ -9,7 +9,10 @@ int main() {
     srand(time(0));
     const int minNumber = 1;
     const int maxNumber = 100;
-
+    cout<<"enter the min no=";
+    cin>>min no;
+    cout<<"enter the max no="
+    cin>>max no;
     char playAgain;
     
     do {
@@ -49,3 +52,4 @@ int main() {
     
     return 0;
 }
+//mayur wagh
